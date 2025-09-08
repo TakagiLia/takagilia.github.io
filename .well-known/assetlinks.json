@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "biz.takagi.branch_io_scheme_app",
+    "package_name": "jp.co.softbank.OfficialAppTest",
     "sha256_cert_fingerprints":
-    ["ED:69:C2:AA:B7:1C:C3:89:03:52:56:02:1B:8C:B9:EB:E2:46:DC:E3:8C:D3:28:A7:2C:10:57:2F:01:4B:9E:DF"]
+    ["87:C7:98:3B:22:4D:EF:78:08:93:E8:D2:09:66:3A:8B:7B:A2:53:4A:74:10:2A:33:2F:47:87:DA:24:38:24:CF"]
   }
 }]
